@@ -1,0 +1,43 @@
+# Go相关
+backend/bin/
+backend/pkg/
+backend/*.exe
+backend/*.out
+backend/*.test
+backend/coverage/
+backend/logs/
+
+# Node.js/前端相关
+frontend/node_modules/
+frontend/.nuxt/
+frontend/.env*
+frontend/pnpm-lock.yaml
+
+# Nuxt dev/build outputs
+.output
+.data
+.nuxt
+.nitro
+.cache
+dist
+
+# Node dependencies
+node_modules
+
+# 日志文件
+*.log
+logs
+
+# 系统/编辑器文件
+.DS_Store
+Thumbs.db
+.fleet
+.idea
+
+# 本地环境变量文件
+.env
+.env.*
+!.env.example
+
+# 忽略真实配置文件
+backend/config/config.yaml

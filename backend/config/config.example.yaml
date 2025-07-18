@@ -1,0 +1,17 @@
+server:
+  port: 8080
+
+database:
+  driver: mysql
+  host: 127.0.0.1
+  port: 3306
+  user: your_user
+  password: your_password
+  name: your_db
+  charset: utf8mb4
+  parseTime: true
+  loc: Local
+
+log:
+  level: debug
+  file: logs/moon-vue.log
