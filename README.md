@@ -2,7 +2,7 @@
 # NovaStream
 
 <div align="center">
-  <img src="frontend/public/logo.png" alt="NovaStream Logo" width="120">
+  <img src="frontend/public/logo.png" alt="NovaStream Logo" width="160">
 </div>
 
 🚀 一个基于 Nuxt 和 Golang 构建的极速、轻量且开源的流媒体平台。
